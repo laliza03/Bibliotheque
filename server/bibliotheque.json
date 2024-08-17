@@ -1,0 +1,786 @@
+{
+    "livres": 
+    [
+        {
+            "titre": "Les Hauts de Hurlevent",
+            "auteur": "Emily Brontë",
+            "isbn": "978-2-253-13061-7",
+            "maison_edition": "Le Livre de Poche",
+            "date_publication": "1847-01-01",
+            "description": "Roman romantique explorant les passions destructrices et les luttes de pouvoir au sein d'une famille dans la lande sauvage du Yorkshire.",
+            "appreciation_moyenne": 4.6,
+            "nombre_appreciations": 2
+        },
+        {
+            "titre": "L'Alchimiste",
+            "auteur": "Paulo Coelho",
+            "isbn": "978-2-253-09812-8",
+            "maison_edition": "Le Livre de Poche",
+            "date_publication": "1988-01-01",
+            "description": "Roman philosophique racontant l'histoire de Santiago, un jeune berger espagnol en quête de son propre trésor spirituel à travers un voyage épique.",
+            "appreciation_moyenne": 4.4,
+            "nombre_appreciations": 23
+        },
+        {
+            "titre": "Les Liaisons dangereuses",
+            "auteur": "Pierre Choderlos de Laclos",
+            "isbn": "978-2-253-05009-5",
+            "maison_edition": "Le Livre de Poche",
+            "date_publication": "1782-01-01",
+            "description": "Épistolier où deux nobles manipulateurs, la Marquise de Merteuil et le Vicomte de Valmont, se livrent à un jeu de séduction et de trahison dans le monde libertin du XVIIIe siècle.",
+            "appreciation_moyenne": 4.7,
+            "nombre_appreciations": 5
+        },
+        {
+            "titre": "Les Particules élémentaires",
+            "auteur": "Michel Houellebecq",
+            "isbn": "978-2-07-040686-8",
+            "maison_edition": "Gallimard",
+            "date_publication": "1998-01-01",
+            "description": "Roman provocateur explorant les thèmes de l'individualisme moderne, de la génétique et de l'aliénation à travers les vies de deux demi-frères.",
+            "appreciation_moyenne": 4.3,
+            "nombre_appreciations": 7
+        },
+        {
+            "titre": "Voyage au bout de la nuit",
+            "auteur": "Louis-Ferdinand Céline",
+            "isbn": "978-2-07-036026-0",
+            "maison_edition": "Gallimard",
+            "date_publication": "1932-01-01",
+            "description": "Roman satirique et pessimiste suivant le parcours de Bardamu, un ancien combattant de la Première Guerre mondiale, à travers une Europe en crise.",
+            "appreciation_moyenne": 4.5,
+            "nombre_appreciations": 1
+        },
+        {
+            "titre": "Le Seigneur des Anneaux",
+            "auteur": "J.R.R. Tolkien",
+            "isbn": "978-2-07-061282-5",
+            "maison_edition": "Christian Bourgois Éditeur",
+            "date_publication": "1954-1955",
+            "description": "Une épopée fantastique dans un monde peuplé d'elfes, de nains et d'anneaux magiques.",
+            "appreciation_moyenne": 4.8,
+            "nombre_appreciations": 4
+        },
+        {
+            "titre": "Dune",
+            "auteur": "Frank Herbert",
+            "isbn": "978-2-07-041573-0",
+            "maison_edition": "Robert Laffont",
+            "date_publication": "1965",
+            "description": "Une épopée interstellaire sur la planète désertique d'Arrakis, où se trouve l'épice précieuse.",
+            "appreciation_moyenne": 4.7,
+            "nombre_appreciations": 3
+        },
+        {
+            "titre": "Le Chant de la rivière",
+            "auteur": "Wendy Delorme",
+            "isbn": "978-2-07-041573-0",
+            "maison_edition": "Cambourakis",
+            "date_publication": "1984",
+            "description": "Une rivière raconte une histoire d’amour interdite à une écrivaine en panne d’inspiration dans les Alpes. Poétique, déchirant, sensuel et politique.",
+            "appreciation_moyenne": 4.8,
+            "nombre_appreciations": 3
+        },
+        {
+            "titre": "Les Princes de l’étang aux finnois",
+            "auteur": "Lars Elling",
+            "isbn": "978-2-07-041573-0",
+            "maison_edition": "Gallmeister",
+            "date_publication": "1984",
+            "description": "Un vieil homme raconte à son petit-fils ses escapades dans la nature avec son frère, avant la Grande Guerre.",
+            "appreciation_moyenne": 4.3,
+            "nombre_appreciations": 8
+        },
+        {
+            "titre": "Le Petit Prince",
+            "auteur": "Antoine de Saint-Exupéry",
+            "isbn": "978-2-207-26456-8",
+            "maison_edition": "Gallimard",
+            "date_publication": "1943-04-06",
+            "description": "Un conte philosophique et poétique racontant l'histoire d'un jeune prince voyageant de planète en planète, découvrant les complexités de la vie adulte.",
+            "appreciation_moyenne": 5,
+            "nombre_appreciations": 5
+        },
+        {
+            "titre": "1984",
+            "auteur": "George Orwell",
+            "isbn": "978-2-07-036822-8",
+            "maison_edition": "Gallimard",
+            "date_publication": "1949-06-08",
+            "description": "Un roman dystopique décrivant un régime totalitaire où la pensée est contrôlée et la vérité est manipulée par le gouvernement.",
+            "appreciation_moyenne": 4.5,
+            "nombre_appreciations": 66
+        },
+        {
+            "titre": "Harry Potter à l'école des sorciers",
+            "auteur": "J.K. Rowling",
+            "isbn": "978-2-07-061236-8",
+            "maison_edition": "Gallimard",
+            "date_publication": "1998-10-01",
+            "description": "Premier livre de la série Harry Potter, racontant les aventures d'un jeune sorcier découvrant ses pouvoirs et affrontant le maléfique Voldemort.",
+            "appreciation_moyenne": 4.8,
+            "nombre_appreciations": 2
+        },
+        {
+            "titre": "L'Étranger",
+            "auteur": "Albert Camus",
+            "isbn": "978-2-07-036002-4",
+            "maison_edition": "Gallimard",
+            "date_publication": "1942-01-01",
+            "description": "Roman philosophique où un homme indifférent à la société et aux conventions sociales se confronte à l'absurdité de l'existence.",
+            "appreciation_moyenne": 4.1,
+            "nombre_appreciations": 1
+        },
+        {
+            "titre": "Les Misérables",
+            "auteur": "Victor Hugo",
+            "isbn": "978-2-253-12200-1",
+            "maison_edition": "Le Livre de Poche",
+            "date_publication": "1862-01-01",
+            "description": "Un chef-d'œuvre de la littérature française décrivant la vie de plusieurs personnages, notamment Jean Valjean, dans la France du 19e siècle.",
+            "appreciation_moyenne": 4.9,
+            "nombre_appreciations": 1
+        },
+        {
+            "titre": "Fondation",
+            "auteur": "Isaac Asimov",
+            "isbn": "978-2-07-036822-8",
+            "maison_edition": "Gallimard",
+            "date_publication": "1951",
+            "description": "L'histoire de la Fondation, une organisation scientifique cherchant à préserver la connaissance dans un empire galactique en déclin.",
+            "appreciation_moyenne": 3.5,
+            "nombre_appreciations": 2
+        },
+        {
+            "titre": "Neuromancien",
+            "auteur": "William Gibson",
+            "isbn": "978-2-07-041573-0",
+            "maison_edition": "J'ai lu",
+            "date_publication": "1984",
+            "description": "Un roman cyberpunk qui a popularisé le terme \"matrice\" et exploré les mondes virtuels et la cybernétique.",
+            "appreciation_moyenne": 4.3,
+            "nombre_appreciations": 1
+        },
+        {
+            "titre": "Le Seigneur des Anneaux",
+            "auteur": "J.R.R. Tolkien",
+            "isbn": "978-2-07-033036-5",
+            "maison_edition": "Christian Bourgois Éditeur",
+            "date_publication": "1954-07-29",
+            "description": "Trilogie épique de fantasy racontant la quête de Frodo pour détruire l'Anneau Unique et sauver la Terre du Milieu du maléfique Sauron.",
+            "appreciation_moyenne": 4.7,
+            "nombre_appreciations": 1
+        },
+        {
+            "titre": "Crime et châtiment",
+            "auteur": "Fiodor Dostoïevski",
+            "isbn": "978-2-07-040458-2",
+            "maison_edition": "Gallimard",
+            "date_publication": "1866-01-01",
+            "description": "Roman explorant les profondeurs de la psyché humaine à travers l'histoire d'un étudiant tourmenté par la culpabilité après un meurtre.",
+            "appreciation_moyenne": 4.8,
+            "nombre_appreciations": 12
+        },
+        {
+            "titre": "Orgueil et Préjugés",
+            "auteur": "Jane Austen",
+            "isbn": "978-2-07-040968-6",
+            "maison_edition": "Gallimard",
+            "date_publication": "1813-01-28",
+            "description": "Classique de la littérature anglaise mettant en scène la relation complexe entre Elizabeth Bennet et Mr. Darcy dans la société britannique du 19e siècle.",
+            "appreciation_moyenne": 2.7,
+            "nombre_appreciations": 13
+        },
+        {
+            "titre": "Sapiens : Une brève histoire de l'humanité",
+            "auteur": "Yuval Noah Harari",
+            "isbn": "978-2-221-19592-3",
+            "maison_edition": "Albin Michel",
+            "date_publication": "2011-04-20",
+            "description": "Essai historique retraçant l'évolution de l'espèce humaine depuis les premiers hominidés jusqu'à l'ère moderne, explorant les grands bouleversements de notre histoire.",
+            "appreciation_moyenne": 4.5,
+            "nombre_appreciations": 2
+        },
+        {
+            "titre": "Les Fleurs du Mal",
+            "auteur": "Charles Baudelaire",
+            "isbn": "978-2-07-038255-2",
+            "maison_edition": "Gallimard",
+            "date_publication": "1857-06-25",
+            "description": "Recueil de poèmes majeur de la littérature française, explorant la beauté, la laideur et la dualité de l'âme humaine.",
+            "appreciation_moyenne": 4.9,
+            "nombre_appreciations": 1
+        },
+        {
+            "titre": "Le Guépard",
+            "auteur": "Giuseppe Tomasi di Lampedusa",
+            "isbn": "978-2-07-036023-9",
+            "maison_edition": "Gallimard",
+            "date_publication": "1958-10-06",
+            "description": "Roman historique italien se déroulant pendant l'unification italienne, explorant la fin d'une époque aristocratique et les changements sociaux.",
+            "appreciation_moyenne": 3.6,
+            "nombre_appreciations": 25
+        },
+        {
+            "titre": "La Nuit des temps",
+            "auteur": "René Barjavel",
+            "isbn": "978-2-253-04748-4",
+            "maison_edition": "Le Livre de Poche",
+            "date_publication": "1968-01-01",
+            "description": "Roman de science-fiction racontant la découverte d'un couple congelé depuis des milliers d'années, révélant une civilisation avancée du passé.",
+            "appreciation_moyenne": 4.7,
+            "nombre_appreciations": 7
+        },
+        {
+            "titre": "Le Petit Prince",
+            "auteur": "Antoine de Saint-Exupéry",
+            "isbn": "978-2-207-26456-8",
+            "maison_edition": "Gallimard",
+            "date_publication": "1943-04-06",
+            "description": "Un conte philosophique et poétique racontant l'histoire d'un jeune prince voyageant de planète en planète, découvrant les complexités de la vie adulte.",
+            "appreciation_moyenne": 5,
+            "nombre_appreciations": 1
+        },
+        {
+            "titre": "1984",
+            "auteur": "George Orwell",
+            "isbn": "978-2-07-036822-8",
+            "maison_edition": "Gallimard",
+            "date_publication": "1949-06-08",
+            "description": "Un roman dystopique décrivant un régime totalitaire où la pensée est contrôlée et la vérité est manipulée par le gouvernement.",
+            "appreciation_moyenne": 4.5,
+            "nombre_appreciations": 10
+        },
+        {
+            "titre": "L'Étranger",
+            "auteur": "Albert Camus",
+            "isbn": "978-2-07-036002-4",
+            "maison_edition": "Gallimard",
+            "date_publication": "1942-01-01",
+            "description": "Roman philosophique où un homme indifférent à la société et aux conventions sociales se confronte à l'absurdité de l'existence.",
+            "appreciation_moyenne": 4.6,
+            "nombre_appreciations": 32
+        },
+        {
+            "titre": "Les Misérables",
+            "auteur": "Victor Hugo",
+            "isbn": "978-2-253-12200-1",
+            "maison_edition": "Le Livre de Poche",
+            "date_publication": "1862-01-01",
+            "description": "Un chef-d'œuvre de la littérature française décrivant la vie de plusieurs personnages, notamment Jean Valjean, dans la France du 19e siècle.",
+            "appreciation_moyenne": 4.9,
+            "nombre_appreciations": 33
+        },
+        {
+            "titre": "Le Seigneur des Anneaux",
+            "auteur": "J.R.R. Tolkien",
+            "isbn": "978-2-07-033036-5",
+            "maison_edition": "Christian Bourgois Éditeur",
+            "date_publication": "1954-07-29",
+            "description": "Trilogie épique de fantasy racontant la quête de Frodo pour détruire l'Anneau Unique et sauver la Terre du Milieu du maléfique Sauron.",
+            "appreciation_moyenne": 4.7,
+            "nombre_appreciations": 31
+        },
+        {
+            "titre": "Der Vorleser",
+            "auteur": "Bernhard Schlink",
+            "isbn": "978-3257229532",
+            "maison_edition": "Diogenes",
+            "date_publication": "1995-08-01",
+            "description": "Ein Roman, der die komplexe Beziehung zwischen einem jungen Mann und einer älteren Frau in der Nachkriegszeit Deutschlands erforscht, mit tiefen moralischen und ethischen Fragen.",
+            "appreciation_moyenne": 3.4,
+            "nombre_appreciations": 6
+        },
+        {
+            "titre": "Die Leiden des jungen Werthers",
+            "auteur": "Johann Wolfgang von Goethe",
+            "isbn": "978-3150000013",
+            "maison_edition": "Reclam",
+            "date_publication": "1774-09-29",
+            "description": "Ein epistolarischer Roman, der die unglückliche Liebe des jungen Werther zu Lotte schildert und eine Welle von Werther-Fieber in Europa auslöste.",
+            "appreciation_moyenne": 2.2,
+            "nombre_appreciations": 2
+        },
+        {
+            "titre": "To Kill a Mockingbird",
+            "auteur": "Harper Lee",
+            "isbn": "978-0060935467",
+            "maison_edition": "Harper Perennial Modern Classics",
+            "date_publication": "1960-07-11",
+            "description": "A classic of modern American literature depicting racial injustice and moral growth through the eyes of Scout Finch, a young girl in the Depression-era South.",
+            "appreciation_moyenne": 4.5,
+            "nombre_appreciations": 21
+        },
+        {
+            "titre": "The Great Gatsby",
+            "auteur": "F. Scott Fitzgerald",
+            "isbn": "978-0743273565",
+            "maison_edition": "Scribner",
+            "date_publication": "1925-04-10",
+            "description": "A novel set in the Jazz Age, narrated by Nick Carraway, exploring themes of decadence, idealism, resistance to change, social upheaval, and excess.",
+            "appreciation_moyenne": 4.3,
+            "nombre_appreciations": 24
+        },
+        {
+            "titre": "Die Blechtrommel",
+            "auteur": "Günter Grass",
+            "isbn": "978-3423113472",
+            "maison_edition": "Deutscher Taschenbuch Verlag",
+            "date_publication": "1959-09-01",
+            "description": "Ein postmoderner Roman, der die Geschichte von Oskar Matzerath erzählt, einem Jungen, der sich entscheidet, nicht weiter zu wachsen und seine Umgebung durch seinen Trommelschlag zu beeinflussen.",
+            "appreciation_moyenne": 3.3,
+            "nombre_appreciations": 13
+        },
+        {
+            "titre": "Im Westen nichts Neues",
+            "auteur": "Erich Maria Remarque",
+            "isbn": "978-3-499-10408-1",
+            "maison_edition": "Fischer Taschenbuch Verlag",
+            "date_publication": "1929-01-01",
+            "description": "Ein Anti-Kriegsroman, der die Erlebnisse einer Gruppe deutscher Soldaten im Ersten Weltkrieg beschreibt und die Sinnlosigkeit und Grausamkeit des Krieges aufzeigt.",
+            "appreciation_moyenne": 4.7,
+            "nombre_appreciations": 3
+        },
+        {
+            "titre": "Crime et châtiment",
+            "auteur": "Fiodor Dostoïevski",
+            "isbn": "978-2-07-040458-2",
+            "maison_edition": "Gallimard",
+            "date_publication": "1866-01-01",
+            "description": "Roman explorant les profondeurs de la psyché humaine à travers l'histoire d'un étudiant tourmenté par la culpabilité après un meurtre.",
+            "appreciation_moyenne": 4.8,
+            "nombre_appreciations": 26
+        },
+        {
+            "titre": "El amor en los tiempos del cólera",
+            "auteur": "Gabriel García Márquez",
+            "isbn": "978-84-08-08972-7",
+            "maison_edition": "Sudamericana",
+            "date_publication": "1985-01-01",
+            "description": "Historia de amor que transcurre en un pueblo caribeño y abarca más de medio siglo, explorando temas de pasión, envejecimiento y perseverancia.",
+            "appreciation_moyenne": 3.0,
+            "nombre_appreciations": 8
+        },
+        {
+            "titre": "1984",
+            "auteur": "George Orwell",
+            "isbn": "978-0451524935",
+            "maison_edition": "Signet Classic",
+            "date_publication": "1949-06-08",
+            "description": "A dystopian novel depicting a totalitarian regime where critical thought is suppressed under Big Brother's rule, exploring surveillance, propaganda, and control.",
+            "appreciation_moyenne": 4.5,
+            "nombre_appreciations": 13
+        },
+        {
+            "titre": "Pride and Prejudice",
+            "auteur": "Jane Austen",
+            "isbn": "978-0141439518",
+            "maison_edition": "Penguin Classics",
+            "date_publication": "1813-01-28",
+            "description": "A classic novel exploring the societal issues of marriage, class, and reputation through the story of Elizabeth Bennet and Mr. Darcy in Regency-era England.",
+            "appreciation_moyenne": 4.6,
+            "nombre_appreciations": 8
+        },
+        {
+            "titre": "The Catcher in the Rye",
+            "auteur": "J.D. Salinger",
+            "isbn": "978-0316769488",
+            "maison_edition": "Back Bay Books",
+            "date_publication": "1951-07-16",
+            "description": "A novel narrated by Holden Caulfield, a teenager disillusioned by the phoniness of the adult world, exploring themes of innocence, identity, and alienation.",
+            "appreciation_moyenne": 4.1,
+            "nombre_appreciations": 7
+        },
+        {
+            "titre": "Orgueil et Préjugés",
+            "auteur": "Jane Austen",
+            "isbn": "978-2-07-040968-6",
+            "maison_edition": "Gallimard",
+            "date_publication": "1813-01-28",
+            "description": "Classique de la littérature anglaise mettant en scène la relation complexe entre Elizabeth Bennet et Mr. Darcy dans la société britannique du 19e siècle.",
+            "appreciation_moyenne": 3.7,
+            "nombre_appreciations": 25
+        },
+        {
+            "titre": "Sapiens : Une brève histoire de l'humanité",
+            "auteur": "Yuval Noah Harari",
+            "isbn": "978-2-221-19592-3",
+            "maison_edition": "Albin Michel",
+            "date_publication": "2011-04-20",
+            "description": "Essai historique retraçant l'évolution de l'espèce humaine depuis les premiers hominidés jusqu'à l'ère moderne, explorant les grands bouleversements de notre histoire.",
+            "appreciation_moyenne": 4.5,
+            "nombre_appreciations": 20
+        },
+        {
+            "titre": "Les Fleurs du Mal",
+            "auteur": "Charles Baudelaire",
+            "isbn": "978-2-07-038255-2",
+            "maison_edition": "Gallimard",
+            "date_publication": "1857-06-25",
+            "description": "Recueil de poèmes majeur de la littérature française, explorant la beauté, la laideur et la dualité de l'âme humaine.",
+            "appreciation_moyenne": 4.9,
+            "nombre_appreciations": 10
+        },
+        {
+            "titre": "Le Guépard",
+            "auteur": "Giuseppe Tomasi di Lampedusa",
+            "isbn": "978-2-07-036023-9",
+            "maison_edition": "Gallimard",
+            "date_publication": "1958-10-06",
+            "description": "Roman historique italien se déroulant pendant l'unification italienne, explorant la fin d'une époque aristocratique et les changements sociaux.",
+            "appreciation_moyenne": 4.6,
+            "nombre_appreciations": 15
+        },
+        {
+            "titre": "La Nuit des temps",
+            "auteur": "René Barjavel",
+            "isbn": "978-2-253-04748-4",
+            "maison_edition": "Le Livre de Poche",
+            "date_publication": "1968-01-01",
+            "description": "Roman de science-fiction racontant la découverte d'un couple congelé depuis des milliers d'années, révélant une civilisation avancée du passé.",
+            "appreciation_moyenne": 4.7,
+            "nombre_appreciations": 30
+        },
+        {
+            "titre": "Don Quichotte",
+            "auteur": "Miguel de Cervantes",
+            "isbn": "978-2-253-04811-5",
+            "maison_edition": "Le Livre de Poche",
+            "date_publication": "1605-01-01",
+            "description": "Roman parodique racontant les aventures d'un chevalier errant idéaliste et de son écuyer, devenu un classique de la littérature espagnole.",
+            "appreciation_moyenne": 4.8,
+            "nombre_appreciations": 5
+        },
+        {
+            "titre": "Les Mille et Une Nuits",
+            "auteur": "Anonyme",
+            "isbn": "978-2-253-05207-5",
+            "maison_edition": "Le Livre de Poche",
+            "date_publication": "IXe-XVe siècles",
+            "description": "Recueil de contes orientaux racontant des histoires merveilleuses de djinns, de princes et de princesses, traduites et adaptées à travers les siècles.",
+            "appreciation_moyenne": 4.6,
+            "nombre_appreciations": 11
+        },
+        {
+            "titre": "Les Trois Mousquetaires",
+            "auteur": "Alexandre Dumas",
+            "isbn": "978-2-253-10979-0",
+            "maison_edition": "Le Livre de Poche",
+            "date_publication": "1844-01-01",
+            "description": "Roman d'aventure mettant en scène les exploits de d'Artagnan et de ses amis mousquetaires dans la France du 17e siècle.",
+            "appreciation_moyenne": 4.7,
+            "nombre_appreciations": 23
+        },
+        {
+            "titre": "Les Rois maudits",
+            "auteur": "Maurice Druon",
+            "isbn": "978-2-253-14375-8",
+            "maison_edition": "Le Livre de Poche",
+            "date_publication": "1955-01-01",
+            "description": "Saga historique retraçant les intrigues et les luttes de pouvoir au sein de la royauté française pendant le règne des derniers Capétiens.",
+            "appreciation_moyenne": 3.5,
+            "nombre_appreciations": 19
+        },
+        {
+            "titre": "Cien años de soledad",
+            "auteur": "Gabriel García Márquez",
+            "isbn": "978-84-376-0494-7",
+            "maison_edition": "Círculo de Lectores",
+            "date_publication": "1967-05-30",
+            "description": "Obra maestra del realismo mágico que narra la historia de la familia Buendía a lo largo de siete generaciones en el ficticio pueblo de Macondo, en América Latina.",
+            "appreciation_moyenne": 3.8,
+            "nombre_appreciations": 22
+        },
+        {
+            "titre": "Don Quijote de la Mancha",
+            "auteur": "Miguel de Cervantes",
+            "isbn": "978-84-376-0173-1",
+            "maison_edition": "Castalia",
+            "date_publication": "1605-01-01",
+            "description": "Novela paródica que cuenta las aventuras de Don Quijote, un caballero andante que busca revivir la caballería en la España del Siglo de Oro.",
+            "appreciation_moyenne": 4.7,
+            "nombre_appreciations": 17
+        },
+        {
+            "titre": "La Peste",
+            "auteur": "Albert Camus",
+            "isbn": "978-2-07-036042-0",
+            "maison_edition": "Gallimard",
+            "date_publication": "1947-06-10",
+            "description": "Roman existentialiste décrivant une épidémie de peste dans la ville d'Oran et explorant les réactions des habitants face à l'adversité.",
+            "appreciation_moyenne": 4.6,
+            "nombre_appreciations": 22
+        },
+        {
+            "titre": "Les Rêveries du promeneur solitaire",
+            "auteur": "Jean-Jacques Rousseau",
+            "isbn": "978-2-07-037392-5",
+            "maison_edition": "Gallimard",
+            "date_publication": "1782-01-01",
+            "description": "Œuvre autobiographique où Rousseau médite sur la nature humaine, la société et la solitude à travers ses promenades contemplatives.",
+            "appreciation_moyenne": 3.4,
+            "nombre_appreciations": 5
+        },
+        {
+            "titre": "Moby Dick",
+            "auteur": "Herman Melville",
+            "isbn": "978-2-253-18565-6",
+            "maison_edition": "Le Livre de Poche",
+            "date_publication": "1851-10-18",
+            "description": "Roman épique racontant la quête obsessionnelle du capitaine Achab pour traquer et tuer la baleine blanche, Moby Dick.",
+            "appreciation_moyenne": 2.7,
+            "nombre_appreciations": 2
+        },
+        {
+            "titre": "Les Enfants de la Terre, tome 1 : Le Clan de l'Ours des Cavernes",
+            "auteur": "Jean M. Auel",
+            "isbn": "978-2-253-14433-5",
+            "maison_edition": "Le Livre de Poche",
+            "date_publication": "1980-01-01",
+            "description": "Roman préhistorique racontant l'histoire d'Ayla, une jeune femme de la préhistoire qui lutte pour survivre et trouver sa place dans un monde hostile.",
+            "appreciation_moyenne": 4.5,
+            "nombre_appreciations": 6
+        },
+        {
+            "titre": "Cent ans de solitude",
+            "auteur": "Gabriel García Márquez",
+            "isbn": "978-2-07-036822-8",
+            "maison_edition": "Gallimard",
+            "date_publication": "1967-05-30",
+            "description": "Chef-d'œuvre du réalisme magique racontant l'histoire de la famille Buendía sur sept générations dans le village fictif de Macondo en Amérique latine.",
+            "appreciation_moyenne": 4.8,
+            "nombre_appreciations": 5
+        },
+        {
+            "titre": "La casa de los espíritus",
+            "auteur": "Isabel Allende",
+            "isbn": "978-84-08-01867-9",
+            "maison_edition": "Sudamericana",
+            "date_publication": "1982-01-01",
+            "description": "Novela que abarca varias generaciones de la familia Trueba en un país sudamericano no identificado, tejiendo elementos de realismo mágico y política.",
+            "appreciation_moyenne": 4.5,
+            "nombre_appreciations": 9
+        },
+        {
+            "titre": "La sombra del viento",
+            "auteur": "Carlos Ruiz Zafón",
+            "isbn": "978-84-08-00111-4",
+            "maison_edition": "Planeta",
+            "date_publication": "2001-04-01",
+            "description": "Novela ambientada en la posguerra española, donde un joven descubre un libro misterioso que lo lleva a investigar la vida del autor, Daniel Sempere.",
+            "appreciation_moyenne": 4.6,
+            "nombre_appreciations": 5
+        },
+        {
+            "titre": "Das Parfum",
+            "auteur": "Patrick Süskind",
+            "isbn": "978-3257228009",
+            "maison_edition": "Diogenes",
+            "date_publication": "1985-09-01",
+            "description": "Ein literarischer Thriller über Jean-Baptiste Grenouille, einen Perfektionisten, der nach dem perfekten Duft sucht und dabei zu extremen Mitteln greift.",
+            "appreciation_moyenne": 4.6,
+            "nombre_appreciations": 15
+        }
+    ],
+  "comptes":
+    [
+        {
+            "compte": "alice.dupont@example.com",
+            "nom": "Dupont",
+            "prenom": "Alice"
+            
+        },
+        {
+            "compte": "bob.martin@example.com",
+            "nom": "Martin",
+            "prenom": "Bob"
+            
+        },
+        {
+            "compte": "claire.lefebvre@example.com",
+            "nom": "Lefebvre",
+            "prenom": "Claire"
+        },
+        {
+            "compte": "john.doe@example.com",
+            "nom": "Doe",
+            "prenom": "John"
+        },
+        {
+            "compte": "jane.smith@example.com",
+            "nom": "Smith",
+            "prenom": "Jane"
+        },
+        {
+            "compte": "alex.brown@example.com",
+            "nom": "Brown",
+            "prenom": "Alex"
+        },
+        {
+            "compte": "emily.wilson@example.com",
+            "nom": "Wilson",
+            "prenom": "Emily"
+        },
+        {
+            "compte": "michael.johnson@example.com",
+            "nom": "Johnson",
+            "prenom": "Michael"
+        },
+        {
+            "compte": "laura.martin@example.com",
+            "nom": "Martin",
+            "prenom": "Laura"
+        },
+        {
+            "compte": "david.anderson@example.com",
+            "nom": "Anderson",
+            "prenom": "David"
+        },
+        {
+            "compte": "sophia.thomas@example.com",
+            "nom": "Thomas",
+            "prenom": "Sophia"
+        },
+        {
+            "compte": "william.robinson@example.com",
+            "nom": "Robinson",
+            "prenom": "William"
+        },
+        {
+            "compte": "olivia.hall@example.com",
+            "nom": "Hall",
+            "prenom": "Olivia"
+        },
+        {
+            "compte": "james.lewis@example.com",
+            "nom": "Lewis",
+            "prenom": "James"
+        },
+        {
+            "compte": "ava.jackson@example.com",
+            "nom": "Jackson",
+            "prenom": "Ava"
+        },
+        {
+            "compte": "ethan.harris@example.com",
+            "nom": "Harris",
+            "prenom": "Ethan"
+        },
+        {
+            "compte": "tamtam.sami@example.com",
+            "nom": "Sami",
+            "prenom": "Tamtam"
+        },
+        {
+            "compte": "mia.white@example.com",
+            "nom": "White",
+            "prenom": "Mia"
+        },
+        {
+            "compte": "alexander.moore@example.com",
+            "nom": "Moore",
+            "prenom": "Alexander"
+        },
+        {
+            "compte": "chloe.clark@example.com",
+            "nom": "Clark",
+            "prenom": "Chloe"
+        },
+        {
+            "compte": "daniel.green@example.com",
+            "nom": "Green",
+            "prenom": "Daniel"
+        },
+        {
+            "compte": "emily.baker@example.com",
+            "nom": "Baker",
+            "prenom": "Emily"
+        },
+        {
+            "compte": "logan.hall@example.com",
+            "nom": "Hall",
+            "prenom": "Logan"
+        },
+        {
+            "compte": "grace.mitchell@example.com",
+            "nom": "Mitchell",
+            "prenom": "Grace"
+        },
+        {
+            "compte": "jacob.carter@example.com",
+            "nom": "Carter",
+            "prenom": "Jacob"
+        },
+        {
+            "compte": "abigail.ward@example.com",
+            "nom": "Ward",
+            "prenom": "Abigail"
+        },
+        {
+            "compte": "noah.turner@example.com",
+            "nom": "Turner",
+            "prenom": "Noah"
+        },
+        {
+            "compte": "sophia.hughes@example.com",
+            "nom": "Hughes",
+            "prenom": "Sophia"
+        },
+        {
+            "compte": "william.russell@example.com",
+            "nom": "Russell",
+            "prenom": "William"
+        },
+        {
+            "compte": "david.tremblay@example.com",
+            "nom": "Tremblay",
+            "prenom": "David"
+        },
+        {
+            "compte": "emilie.gagnon@example.com",
+            "nom": "Gagnon",
+            "prenom": "Émilie"
+                
+        },
+        {
+            "compte": "francois.lavoie@example.com",
+            "nom": "Lavoie",
+            "prenom": "François"
+        },
+        {
+            "compte": "genevieve.roy@example.com",
+            "nom": "Roy",
+            "prenom": "Geneviève"
+        },
+        {
+            "compte": "hugo.bergeron@example.com",
+            "nom": "Bergeron",
+            "prenom": "Hugo"                 
+        },
+        {
+            "compte": "isabelle.leclerc@example.com",
+            "nom": "Leclerc",
+            "prenom": "Isabelle"   
+        },
+        {
+            "compte": "jean.martel@example.com",
+            "nom": "Martel",
+            "prenom": "Jean"
+        },
+        {
+            "compte": "karine.dufour@example.com",
+            "nom": "Dufour",
+            "prenom": "Karine"
+        },
+        {
+            "compte": "luc.beauchemin@example.com",
+            "nom": "Beauchemin",
+            "prenom": "Luc"
+        },
+        {
+            "compte": "marie.levesque@example.com",
+            "nom": "Lévesque",
+            "prenom": "Marie"
+        }
+    ]
+}
