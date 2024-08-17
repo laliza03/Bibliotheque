@@ -15,6 +15,14 @@ public class JsonUtil {
     public static List<User> parseUsers(String jsonResponse) throws IOException {
         return objectMapper.readValue(jsonResponse, objectMapper.getTypeFactory().constructCollectionType(List.class, User.class));
     }
+    // Converts a Book object to a JSON string
+    public static String toJson(Book book) throws IOException {
+        return objectMapper.writeValueAsString(book);
+    }
+
+    public static List<Book> parseBooks(String jsonResponse) throws IOException {
+        return objectMapper.readValue(jsonResponse, objectMapper.getTypeFactory().constructCollectionType(List.class, Book.class));
+    }
 
     public static List<Book> loadBooks(String filePath) {
         try {

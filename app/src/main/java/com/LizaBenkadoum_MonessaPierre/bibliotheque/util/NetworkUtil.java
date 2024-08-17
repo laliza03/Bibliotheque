@@ -7,8 +7,15 @@ import okhttp3.Response;
 import java.io.IOException;
 
 public class NetworkUtil {
-    private static final String BASE_URL = "http://192.168.56.1:3000/";
+    public static final String BASE_URL = "http://192.168.56.1:3000/";
     private static final OkHttpClient client = new OkHttpClient();
+
+
+    // Get OkHttpClient instance
+    public static OkHttpClient getClient() {
+        return client;
+    }
+
 
     public static String get(String endpoint) throws IOException {
         Request request = new Request.Builder().url(BASE_URL + endpoint).build();

@@ -5,7 +5,7 @@ public class User {
     private String nom;
     private String prenom;
     private String id;
-    private String password = "etsMtl"; // Mot de passe par défaut
+    private String password; // Mot de passe par défaut
 
     // Constructeur par défaut
     public User() {}
@@ -16,7 +16,6 @@ public class User {
         this.nom = nom;
         this.prenom = prenom;
         this.id = id;
-        this.password = "etsMtl";
     }
 
     public String getCompte() {

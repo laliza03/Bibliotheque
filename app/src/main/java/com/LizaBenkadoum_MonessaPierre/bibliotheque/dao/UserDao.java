@@ -12,15 +12,12 @@ import java.util.List;
 public class UserDao {
     private static final String USER_ENDPOINT = "comptes";
     private static final String TAG = "UserDao";
-    public boolean validateUser(String email, String password) {
+    public boolean validateUser(String email) {
         try {
             String response = NetworkUtil.get(USER_ENDPOINT);
-            Log.d(TAG, "Response: " + response); // Log de la réponse du serveur
             List<User> users = JsonUtil.parseUsers(response);
             for (User user : users) {
-                Log.d(TAG, "Checking user: " + user.getCompte()); // Log de chaque utilisateur vérifié
-                Log.d(TAG, "Password expected: etsMtl, Password received: " + password);
-                if (user.getCompte().equals(email) && "etsMtl".equals(password)) {
+                if (user.getCompte().equals(email)) {
                     return true;
                 }
             }
