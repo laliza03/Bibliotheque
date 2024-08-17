@@ -60,6 +60,6 @@ public class LoginActivity extends AppCompatActivity implements View.OnClickList
 
     public void onLoginFailure() {
         // Show a failure message
-        Toast.makeText(this, "Login failed", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "Login failed, try again with another email and password.", Toast.LENGTH_SHORT).show();
     }
 }

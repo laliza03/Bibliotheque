@@ -5,16 +5,18 @@ public class User {
     private String nom;
     private String prenom;
     private String id;
-    private String password;
+    private String password = "etsMtl"; // Mot de passe par défaut
 
+    // Constructeur par défaut
     public User() {}
 
-    public User(String compte, String nom, String prenom, String id, String password) {
+    // Constructeur complet
+    public User(String compte, String nom, String prenom, String id) {
         this.compte = compte;
         this.nom = nom;
         this.prenom = prenom;
         this.id = id;
-        this.password = password;
+        this.password = "etsMtl";
     }
 
     public String getCompte() {
@@ -52,7 +54,6 @@ public class User {
     public String getPassword() {
         return password;
     }
-
     public void setPassword(String password) {
         this.password = password;
     }

@@ -12,6 +12,10 @@ public class JsonUtil {
     private static ObjectMapper objectMapper = new ObjectMapper();
 
 
+    public static List<User> parseUsers(String jsonResponse) throws IOException {
+        return objectMapper.readValue(jsonResponse, objectMapper.getTypeFactory().constructCollectionType(List.class, User.class));
+    }
+
     public static List<Book> loadBooks(String filePath) {
         try {
             return objectMapper.readValue(new File(filePath), objectMapper.getTypeFactory().constructCollectionType(List.class, Book.class));
@@ -20,6 +24,7 @@ public class JsonUtil {
             return null;
         }
     }
+
 
     public static Book loadBookById(String filePath, String bookId) {
         List<Book> books = loadBooks(filePath);
